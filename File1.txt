@@ -3,3 +3,5 @@ Hello world
 Welcome to git..
 
 feature 1 - login
+
+feature 2 - logout
