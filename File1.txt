@@ -5,3 +5,5 @@ Welcome to git..
 feature 1 - login
 
 feature 2 - logout
+
+bug1 - fixed
