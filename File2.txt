@@ -1,5 +1,13 @@
 File to created for CR1
 
+<<<<<<< HEAD
 File  updated for push check on remote
 file update
 change 3 -> check for the change for the remote master
+=======
+change 1 ->File  updated for push check on remote
+change 2 ->file update
+change 3 ->Test for rebase from local master
+>>>>>>> File2 updated for change 3
+
+File update
